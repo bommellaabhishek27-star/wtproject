@@ -1,0 +1,112 @@
+body {
+  margin: 0;
+  min-height: 100vh;
+  font-family: Arial, sans-serif;
+  background-image: url("imgs/1691062832phpw3m9S4.jpeg");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  color: #1f2937;
+}
+
+.lay {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: #ffffff;
+  padding: 16px 24px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+  font-weight: bold;
+}
+
+.lay a {
+  text-decoration: none;
+  color: #234a6d;
+  font-weight: bold;
+}
+
+.login {
+  width: 500px;
+  margin: 40px auto 24px;
+  padding: 32px;
+  background-color: #2f5d8a;
+  border-radius: 12px;
+  color: white;
+  height: 650px;
+}
+
+h2 {
+  text-align: center;
+  color: white;
+  margin: 0;
+  font-size: 26px;
+}
+
+
+h3 {
+  text-align: center;
+  color: #455770;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  align-items: left;
+  position: relative;
+  left: 50px;
+  top: 50%;
+}
+
+.email {
+  width: 70%;
+  padding: 12px;
+  margin-bottom: 16px;
+  border: none;
+  border-radius: 10px;
+  text-align: left;
+  color: black;
+  font-family:georgia, 'Times New Roman', Times, serif;
+  font-size: 14px;
+}
+.ala1{
+    font-family:georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+}
+
+.password {
+  width: 70%;
+  padding: 12px;
+  margin-top: 16px;
+  border: none;
+  border-radius: 10px;
+  color: black;
+  font-family:georgia, 'Times New Roman', Times, serif;
+  font-size: 14px;
+}
+.img {
+  width: 900px;
+  height: 400px;
+  display: block;
+  margin: 20px auto 0;
+  object-fit: cover;
+  border-radius: 8px;
+  position: relative;
+  top:-250px;
+  right: 400px;
+
+}
+.blt{
+    width:20%;
+    height: 25px;
+    border-radius: 7px;
+    border: none;
+    color: black;
+    background-color: white;
+    text-align: center;
+    text-decoration: none;
+    position: relative;
+    left: 25%;
+    top: 20px;
+    font-family:hobobd, 'Times New Roman', Times, serif;
+    font-size: 18px;
+
+}
