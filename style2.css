@@ -46,6 +46,12 @@ h3{
     font-family:georgia;
     font-size: 25px;
 }
+h2{
+    text-align: center;
+    color: #000000;
+    font-family:georgia;
+    font-size: 25px;
+}
 
 #aka1{
     display: flex;
